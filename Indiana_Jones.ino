@@ -1,4 +1,4 @@
-;
+//put your own pin
 int buzzer_pin = 8;
 
 struct MusicStruct {
@@ -25,7 +25,7 @@ struct LengthStruct {
   float three = 3;
 }Length;
 
- // ajustable je sais pas at all maintenant devra tester 
+ 
 int tempo =400;
 
 void setup() {
